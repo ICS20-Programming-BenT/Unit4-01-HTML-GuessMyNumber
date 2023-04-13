@@ -1,0 +1,37 @@
+/* Created by: Ben Thomson
+* Created on: 04/13/2023
+* This CSS file defines the style for index.html
+* ICS2O-Unit4-01-HTML-GuessMyNumber
+*/
+
+body {
+  background-color: rgb(201 173 167);
+  font-weight: 900;
+  color: #22223b;
+}
+
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: hsl(21deg 35% 92%);
+  padding: 40px;
+  text-align: center;
+}
+
+form {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 900;
+  background-color: #9a8c98;
+  padding: 20px;
+}
+
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 900;
+  background-color: #9a8c98;
+  padding: 20px;
+}
+
+div {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 900;
+}
